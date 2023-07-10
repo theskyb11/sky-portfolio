@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sky-portfolio/static/css/main.c7e1be42.css",
+    "main.js": "/sky-portfolio/static/js/main.3dba5a53.js",
+    "static/media/sip.png": "/sky-portfolio/static/media/sip.63717c7de8a4d03e65d9.png",
+    "static/media/ticketManagement.png": "/sky-portfolio/static/media/ticketManagement.a4fe40401b69c345251d.png",
+    "static/media/projectManagement.png": "/sky-portfolio/static/media/projectManagement.ff32bdd49cf3b0656687.png",
+    "static/media/movieAppBackend.png": "/sky-portfolio/static/media/movieAppBackend.5a066c3b4b0182c35c41.png",
+    "static/media/sql-server.png": "/sky-portfolio/static/media/sql-server.a4ba4125aadc50241c26.png",
+    "static/media/facebookClone.png": "/sky-portfolio/static/media/facebookClone.11f69b2188a5d4993208.png",
+    "static/media/linux.png": "/sky-portfolio/static/media/linux.3db32b955e9b61f35998.png",
+    "static/media/react.png": "/sky-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/python.png": "/sky-portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/movieAppFrontend.png": "/sky-portfolio/static/media/movieAppFrontend.a6cb4719e80b6c304f55.png",
+    "static/media/spring.png": "/sky-portfolio/static/media/spring.f546847d156bf54a1a87.png",
+    "static/media/mysql.png": "/sky-portfolio/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/heroImage.jpeg": "/sky-portfolio/static/media/heroImage.27fdc7c565d411e43944.jpeg",
+    "static/media/cpp.png": "/sky-portfolio/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/github.png": "/sky-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/sky-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/sky-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/java.png": "/sky-portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css.png": "/sky-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/figma.png": "/sky-portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/bootstrap.png": "/sky-portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/javascript.png": "/sky-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/sky-portfolio/index.html",
+    "main.c7e1be42.css.map": "/sky-portfolio/static/css/main.c7e1be42.css.map",
+    "main.3dba5a53.js.map": "/sky-portfolio/static/js/main.3dba5a53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e1be42.css",
+    "static/js/main.3dba5a53.js"
+  ]
+}
